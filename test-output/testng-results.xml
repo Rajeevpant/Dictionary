@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3640" started-at="2021-03-19T17:21:25 EDT" finished-at="2021-03-19T17:21:29 EDT">
+  <suite name="Default suite" duration-ms="13317" started-at="2021-03-19T18:03:28 EDT" finished-at="2021-03-19T18:03:41 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3640" started-at="2021-03-19T17:21:25 EDT" finished-at="2021-03-19T17:21:29 EDT">
+    <test name="Default test" duration-ms="13317" started-at="2021-03-19T18:03:28 EDT" finished-at="2021-03-19T18:03:41 EDT">
       <class name="dictionary.WordResolver">
-        <test-method status="PASS" signature="matchWords()[pri:0, instance:dictionary.WordResolver@6895a785]" name="matchWords" duration-ms="3579" started-at="2021-03-19T17:21:25 EDT" finished-at="2021-03-19T17:21:29 EDT">
+        <test-method status="PASS" signature="matchWords()[pri:0, instance:dictionary.WordResolver@1563da5]" name="matchWords" duration-ms="13261" started-at="2021-03-19T18:03:28 EDT" finished-at="2021-03-19T18:03:41 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- matchWords -->
-        <test-method status="PASS" signature="tearup()[pri:0, instance:dictionary.WordResolver@6895a785]" name="tearup" is-config="true" duration-ms="0" started-at="2021-03-19T17:21:29 EDT" finished-at="2021-03-19T17:21:29 EDT">
+        <test-method status="PASS" signature="tearup()[pri:0, instance:dictionary.WordResolver@1563da5]" name="tearup" is-config="true" duration-ms="1" started-at="2021-03-19T18:03:41 EDT" finished-at="2021-03-19T18:03:41 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearup -->
